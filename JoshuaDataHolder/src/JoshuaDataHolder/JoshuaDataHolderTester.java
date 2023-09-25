@@ -9,7 +9,7 @@ public class JoshuaDataHolderTester {
 		
 		JoshuaDataHolder<Integer> myIntBox = new JoshuaDataHolder<Integer>();
 		myIntBox.addElement(2);
-		myIntBox.addElement(83);
+		myIntBox.addElement(84);
 		System.out.println(myIntBox.getElement(1)+"");
 	}
 }
